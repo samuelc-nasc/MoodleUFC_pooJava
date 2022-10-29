@@ -23,7 +23,7 @@ public class Main_calculadora {
             System.out.println("5 - Divisao");
             System.out.println("6 - Sair");
             int opcao = ler.nextInt();
-            if(opcao==8)break;//verificar se quer sair
+            if(opcao==6)break;//verificar se quer sair
 
             switch (opcao) {
                 case 1:
